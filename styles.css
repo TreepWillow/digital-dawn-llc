@@ -42,13 +42,13 @@ nav ul li a {
 main {
     padding: 2em;
     text-align: center;
-    color: #444; /* Change this to your desired main text color */
+    color: #fff; /* Change this to your desired main text color */
 }
 
 h1 {
     font-size: 2.5em;
     margin-bottom: 0.5em;
-    color: #555; /* Change this to your desired header text color */
+    color: #fff; /* Change this to your desired header text color */
 }
 
 footer {
